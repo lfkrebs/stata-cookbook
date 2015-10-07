@@ -20,10 +20,6 @@ Additional components on manipulation variables, graphing, describing, estimatin
 
 Alternatively, you can get [the entire cookbook in one file](https://github.com/lfkrebs/stata-cookbook/blob/master/all-in-one.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/all-in-one.do)).
 
-## Make it yours
-
-You can simply download any and all of the do-files for this cookbook here and modify them for your own needs. 
-
 If you are used to working with GitHub, you can also fork the entire repository to get your own versioned copy of the cookbook.
 
 ## Contribute
