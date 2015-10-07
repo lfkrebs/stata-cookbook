@@ -1,5 +1,5 @@
 ********************************************************************************
-**                          IDEAL START OF A DO-FILE                          **
+**                       IDEAL STRUCTURE OF A DO-FILE                         **
 ********************************************************************************
 
 * This is an example of the ideal start of a do-file, with comments that explain
@@ -152,5 +152,8 @@ log close _all
 * indicator that something went wrong.
 
 
-
 ** WE HOPE YOU HAVE A GOOD TIME WORKING IN STATA...
+
+
+
+

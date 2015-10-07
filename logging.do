@@ -85,3 +85,7 @@ log close _all
 * This ensures that your log file is properly written to disk. Using _all here
 * tells Stata to close any log, independent of the helpful name we have given
 * it above.
+
+
+
+
