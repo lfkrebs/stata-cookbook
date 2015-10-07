@@ -10,11 +10,11 @@ We encourage you to use the joint Stata Cookbook for this course to build your o
 
 This repository always holds the most up-to-date version of our cookbook. There are two identical versions of the cookbook. You can get parts of the cookbook grouped by topic:
 
-- [intro.do](https://github.com/lfkrebs/stata-cookbook/blob/master/) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/))
-- [logging.do](https://github.com/lfkrebs/stata-cookbook/blob/master/) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/))
-- [importing.do](https://github.com/lfkrebs/stata-cookbook/blob/master/) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/))
-- [labeling.do](https://github.com/lfkrebs/stata-cookbook/blob/master/) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/))
-- [ideal.do](https://github.com/lfkrebs/stata-cookbook/blob/master/) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/))
+- [intro.do](https://github.com/lfkrebs/stata-cookbook/blob/master/intro.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/intro.do))
+- [logging.do](https://github.com/lfkrebs/stata-cookbook/blob/master/logging.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/logging.do))
+- [importing.do](https://github.com/lfkrebs/stata-cookbook/blob/master/importing.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/importing.do))
+- [labeling.do](https://github.com/lfkrebs/stata-cookbook/blob/master/labeling.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/labeling.do))
+- [ideal.do](https://github.com/lfkrebs/stata-cookbook/blob/master/ideal.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/ideal.do))
 
 Additional components on manipulation variables, graphing, describing, estimating and testing are forthcoming…
 
