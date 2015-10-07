@@ -10,17 +10,17 @@ We encourage you to use the joint Stata Cookbook for this course to build your o
 
 This repository always holds the most up-to-date version of our cookbook. There are two identical versions of the cookbook. You can get parts of the cookbook grouped by topic:
 
-- [intro.do](https://github.com/lfkrebs/stata-cookbook/blob/master/intro.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/intro.do))
-- [logging.do](https://github.com/lfkrebs/stata-cookbook/blob/master/logging.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/logging.do))
-- [importing.do](https://github.com/lfkrebs/stata-cookbook/blob/master/importing.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/importing.do))
-- [labeling.do](https://github.com/lfkrebs/stata-cookbook/blob/master/labeling.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/labeling.do))
-- [ideal.do](https://github.com/lfkrebs/stata-cookbook/blob/master/ideal.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/ideal.do))
+1. [intro.do](https://github.com/lfkrebs/stata-cookbook/blob/master/intro.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/intro.do))
+2. [logging.do](https://github.com/lfkrebs/stata-cookbook/blob/master/logging.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/logging.do))
+3. [importing.do](https://github.com/lfkrebs/stata-cookbook/blob/master/importing.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/importing.do))
+4. [labeling.do](https://github.com/lfkrebs/stata-cookbook/blob/master/labeling.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/labeling.do))
+5. [ideal.do](https://github.com/lfkrebs/stata-cookbook/blob/master/ideal.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/ideal.do))
 
 Additional components on manipulation variables, graphing, describing, estimating and testing are forthcoming…
 
 Alternatively, you can get [the entire cookbook in one file](https://github.com/lfkrebs/stata-cookbook/blob/master/all-in-one.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/all-in-one.do)).
 
-If you are used to working with GitHub, you can also fork the entire repository to get your own versioned copy of the cookbook.
+If you are used to working with GitHub, you can also [clone the entire repository](https://github.com/lfkrebs/stata-cookbook.git) to get your own versioned copy of the cookbook.
 
 ## Contribute
 
@@ -28,5 +28,5 @@ Our cookbook is meant to be a collaborative effort. If you found a useful comman
 
 There are two ways to contribute:
 
-- If you are a GitHub user, use the regular GitHub workflow for contributing to projects: [fork the repository](http://guides.github.com/activities/forking/), use a [branch to add your contribution](http://guides.github.com/introduction/flow/), then [send us your changes with a pull request](https://help.github.com/articles/using-pull-requests/). Your change will be reviewed and bonus awarded in GitHub.
-- If you are not a GitHub user, you can simply [mail in your contribution](http://l.mgsog.nl/stata-cookbook-contribution) using your [simple online form](http://l.mgsog.nl/stata-cookbook-contribution). You will get an email response to confirm your submission and an email with your bonus once the your contribution has been reviewed.
+1. If you are a GitHub user, use the regular GitHub workflow for contributing to projects: [fork the repository](http://guides.github.com/activities/forking/), use a [branch to add your contribution](http://guides.github.com/introduction/flow/), then [send us your changes with a pull request](https://help.github.com/articles/using-pull-requests/). Your change will be reviewed and bonus awarded in GitHub.
+2. If you are not a GitHub user, you can simply [mail in your contribution](http://l.mgsog.nl/stata-cookbook-contribution) using your [simple online form](http://l.mgsog.nl/stata-cookbook-contribution). You will get an email response to confirm your submission and an email with your bonus once the your contribution has been reviewed.
