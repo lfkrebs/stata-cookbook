@@ -19,6 +19,9 @@ rename oldname newname
 * As long as the oldname correctly identifiea an existing variable and the new
 * name is an acceptable name, Stata will rename the variable for you.
 
+* The abbreviated version of "rename" is "ren":
+ren old new
+
 * As an example, let's say that we got household data that includes the number
 * of children under 5 and under 14 in a household, and the data was in an Excel
 * sheet with the very clear, but verbose variable names:
@@ -72,6 +75,8 @@ rename noofchildrenaged14 child14
 * To give any variable a label, use:
 label variable some_variable "Description of the variable, up to 80 characters"
 
+* The abbreviated version is:
+la var variable "Description of the variable, up to 80 characters"
 
 
 ** LABELING VALUES OF CATEGORICAL VARIABLES -- Many datasets contain categorical
@@ -85,13 +90,13 @@ label define name_of_this_set_of_values 1 "What does 1 stand for?" 2 "What..."
 * Then, you tell Stata to use this set of labels on a particular variable
 label values variable_name name_of_this_set_of_values
 
-* Let's say we have a gender variable which uses 0 for men and 1 for women:
-label define genderlabels 0 "male" 1 "female"
-label values gender genderlabels
-
 * We might have a marital status variable with different categories:
 label define statuslabels 0 "not married" 1 "married" 2 "divorced" 3 "widowed"
 label values maritalstatus statuslabels
+
+* The abbreviated versions of this commands are "la de" and "la val":
+la de genderlabels 0 "male" 1 "female"
+la val gender genderlabels
 
 * Your set of value labels can contain tens of thousands of value-label pairs.
 

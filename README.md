@@ -8,19 +8,20 @@ We encourage you to use the joint Stata Cookbook for this course to build your o
 
 ## Get your copy
 
-This repository always holds the most up-to-date version of our cookbook. There are two identical versions of the cookbook. You can get parts of the cookbook grouped by topic:
+This repository always holds the most up-to-date version of our cookbook. There are two identical versions of the cookbook.
+
+You can get [the entire cookbook in one file](https://github.com/lfkrebs/stata-cookbook/blob/master/all-in-one.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/all-in-one.do)), or you can get parts of the cookbook grouped by topic:
 
 1. [intro.do](https://github.com/lfkrebs/stata-cookbook/blob/master/intro.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/intro.do))
 2. [logging.do](https://github.com/lfkrebs/stata-cookbook/blob/master/logging.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/logging.do))
 3. [importing.do](https://github.com/lfkrebs/stata-cookbook/blob/master/importing.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/importing.do))
 4. [labeling.do](https://github.com/lfkrebs/stata-cookbook/blob/master/labeling.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/labeling.do))
-5. [ideal.do](https://github.com/lfkrebs/stata-cookbook/blob/master/ideal.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/ideal.do))
+5. [graphing.do](https://github.com/lfkrebs/stata-cookbook/blob/master/graphing.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/graphing.do))
+6. [ideal.do](https://github.com/lfkrebs/stata-cookbook/blob/master/ideal.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/ideal.do))
 
-Additional components on manipulation variables, graphing, describing, estimating and testing are forthcoming…
+Additional components on manipuating variables, describing, estimating and testing are forthcoming and will be added both as individual do-files and to the all-in-one version.
 
-Alternatively, you can get [the entire cookbook in one file](https://github.com/lfkrebs/stata-cookbook/blob/master/all-in-one.do) ([download](https://raw.githubusercontent.com/lfkrebs/stata-cookbook/master/all-in-one.do)).
-
-If you are used to working with GitHub, you can also [clone the entire repository](https://github.com/lfkrebs/stata-cookbook.git) to get your own versioned copy of the cookbook.
+Are you used to working with GitHub? You can also [clone the entire repository](https://github.com/lfkrebs/stata-cookbook.git) to get your own versioned copy of the cookbook.
 
 ## Contribute
 

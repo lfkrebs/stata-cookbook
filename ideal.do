@@ -134,11 +134,18 @@ save "My delightful data RECODED.dta", replace
 
 
 
+** FINAL MESSAGES -- Just before you close your log is a good time to leave any
+* final notes to yourself, like the time and date when your analysis ended:
+display "Analysis ends on `c(current_date)' at `c(current_time)'"
+
+* The abbreviated version of "display" is "di":
+di "Analysis ends on `c(current_date)' at `c(current_time)'"
+
+
+
 ** CLOSE YOUR LOG -- It is best practice to close your log at the end of your
 * analysis. This ensures that all your data is written to the hard drive before
-* you close Stata. This is also a good time to leave any final notes to your
-* self, like the time and date when your analysis ended:
-display "Analysis ends on `c(current_date)' at `c(current_time)'"
+* you close Stata. 
 log close _all
 
 * Using _all here tells Stata to close any log, independent of the helpful name
