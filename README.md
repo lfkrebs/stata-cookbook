@@ -2,7 +2,7 @@
 
 ## Introduction
 
-During the course “Introduction to Data Science”, we will build our very own Stata Cookbook. This repository will hold a collection of useful Stata commands with notes on when and how to use them. 
+During the course “Introduction to Data Science”, we will build our very own Stata Cookbook. This repository will hold a collection of useful Stata commands with notes on when and how to use them.
 
 We encourage you to use the joint Stata Cookbook for this course to build your own personal cookbook. Our shared collection of commands will cover most of the commands you will be using throughout the course, but there are good reasons to build on that foundation: perhaps you want to augment our notes on how to use commands, so that they are more clear or fit your preferred use better. Perhaps you found a useful commands or tricks online and you want to include them in your personal cookbook. Most importantly, once “Introduction to Data Science” ends, you will continue to use Stata in other courses. Having your own personal cookbook allows you to keep adding new commands and notes.
 
@@ -25,9 +25,9 @@ Are you used to working with GitHub? You can also [clone the entire repository](
 
 ## Contribute
 
-Our cookbook is meant to be a collaborative effort. If you found a useful command or trick elsewhere, or if you have useful additions to the notes, you can contribute them to the shared cookbook for the benefit of everyone — and earn a bonus for your grade while you are at it!
+Our cookbook is meant to be a collaborative effort. If you found a useful command or trick elsewhere, or if you have useful additions to the notes, you can contribute them to the shared cookbook for the benefit of everyone!
 
 There are two ways to contribute:
 
-1. If you are a GitHub user, use the regular GitHub workflow for contributing to projects: [fork the repository](http://guides.github.com/activities/forking/), use a [branch to add your contribution](http://guides.github.com/introduction/flow/), then [send us your changes with a pull request](https://help.github.com/articles/using-pull-requests/). Your change will be reviewed and bonus awarded in GitHub.
-2. If you are not a GitHub user, you can simply [mail in your contribution](http://l.mgsog.nl/stata-cookbook-contribution) using your [simple online form](http://l.mgsog.nl/stata-cookbook-contribution). You will get an email response to confirm your submission and an email with your bonus once the your contribution has been reviewed.
+1. If you are a GitHub user, use the regular GitHub workflow for contributing to projects: [fork the repository](http://guides.github.com/activities/forking/), use a [branch to add your contribution](http://guides.github.com/introduction/flow/), then [send us your changes with a pull request](https://help.github.com/articles/using-pull-requests/).
+2. If you are not a GitHub user, you can simply [mail in your contribution](mailto:krebs@merit.unu.edu).
