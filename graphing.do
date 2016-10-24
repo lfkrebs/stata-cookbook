@@ -54,6 +54,17 @@ gr bar, over(priz)
 * of "bar":
 graph hbar, over(priz)
 
+* You can also make stacked bar graphs and percentage bar graphs
+* Theses are a helpful way to visualise, for example, the level of education of
+* rural and urban regions. The important commands to understand here are asyvars
+* tells Stata to treat your first over() variable as the variable that is 
+* plotted on the y axis. The second over() is then the categories that the bar 
+* chart is divided into. "percentages" tells Stata to treat each bar as a 
+* percentage. If you drop "percentages" you can instead see the frequency for 
+* each category, i.e. the number of people by their level of education in each
+* region. 
+graph bar, over(region) over(hheduc) xsize(15) stack asyvars
+
 * You can customize the appearance of the bar chart further. See below in this
 * text, or in the documentation under
 help graph bar
