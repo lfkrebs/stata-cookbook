@@ -54,6 +54,9 @@ gr bar, over(priz)
 * of "bar":
 graph hbar, over(priz)
 
+*if you want to show percentage on each slice of the pie you add the command: 
+graph pie, over(priz) plabel(_all percent)
+
 * You can customize the appearance of the bar chart further. See below in this
 * text, or in the documentation under
 help graph bar
