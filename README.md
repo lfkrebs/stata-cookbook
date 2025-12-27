@@ -1,3 +1,6 @@
+> [!note]
+> This repo has been archived. The current version of the Stata cookbook is hosted at [CodeBerg](https://codeberg.org/lfkrebs/stata-cookbook).
+
 # Welcome to the Stata Cookbook for Introduction to Data Science
 
 ## Introduction
